@@ -174,6 +174,6 @@ endmodule
 
 ## Results
 Successfully designed and simulated a Booth Multiplier in Verilog.
-Performed signed multiplication efficiently.
-Verified correctness using Cadence nclaunch.
+<br>Performed signed multiplication efficiently.
+<br>Verified correctness using Cadence nclaunch.
 
